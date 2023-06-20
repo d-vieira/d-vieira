@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Vieira</h1>
 <h3 align="center">A passionate full-stack developer from Brasil</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/d-vieira](https://github.com/d-vieira)
+- 👨‍💻 Some of my projects are available at [my personal portfolio](https://www.danielvieiradev.com/)
 
 - 💬 Ask me about **Music, games and cars.**
 
